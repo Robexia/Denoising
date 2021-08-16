@@ -1,1 +1,1 @@
-# IFTAdenoising
+# Denoising
